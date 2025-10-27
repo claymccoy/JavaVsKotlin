@@ -7,7 +7,6 @@ build/
 
 # Java
 *.class
-*.jar
 *.war
 *.nar
 *.ear
@@ -16,6 +15,10 @@ build/
 *.rar
 hs_err_pid*
 replay_pid*
+
+# JAR files (exclude all except Gradle wrapper)
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
 
 # Kotlin
 *.kt.bak
