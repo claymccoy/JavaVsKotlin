@@ -53,7 +53,8 @@ This project includes comprehensive GitHub Actions workflows for continuous inte
 ### Workflows
 - **CI (ci.yml)**: Builds and tests on multiple platforms (Ubuntu, Windows, macOS) for every push to master/main and pull requests
 - **Security Scan (security.yml)**: Weekly dependency vulnerability scanning
-- **CodeQL (codeql.yml)**: Static code analysis for security and quality issues
+- **Static Analysis (static-analysis.yml)**: Basic code quality checks and build validation
+- **CodeQL (codeql.yml)**: Advanced security analysis (requires GitHub Advanced Security - see file for setup instructions)
 
 ### Test Coverage
 - Java unit tests using JUnit Jupiter
