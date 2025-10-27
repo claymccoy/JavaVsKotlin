@@ -1,6 +1,6 @@
 # Java Kotlin comparison
 
-[![CI](https://github.com/claymccoy/kotlin-java-comparison/actions/workflows/ci.yml/badge.svg)](https://github.com/claymccoy/kotlin-java-comparison/actions/workflows/ci.yml)
+[![CI](https://github.com/claymccoy/JavaVsKotlin/actions/workflows/ci.yml/badge.svg)](https://github.com/claymccoy/JavaVsKotlin/actions/workflows/ci.yml)
 
 This project demonstrates equivalent implementations in Java and Kotlin.
 
