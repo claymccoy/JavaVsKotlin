@@ -13,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, windows-latest, macos-latest]
-        java-version: [22]
+        java-version: [21]
     
     steps:
     - name: Checkout code
